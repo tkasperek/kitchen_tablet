@@ -20,6 +20,7 @@ affordable kitchen device that synchronize with residents' smartphones
 - tablet charger,
 - tablet wall mount:  
    https://www.amazon.com/Universal-Tablet-Holder-Surface-Brainwavz/dp/B07Y84F85V
+   ![img0](img-tab_mount.png)
 
 ## Software:
 - Trello app:  
@@ -28,11 +29,18 @@ affordable kitchen device that synchronize with residents' smartphones
 
 ## Mounting:
 
-![Alt text](20210226_181730.jpg?raw=true "Title")
-![Alt text](20210226_181721.jpg?raw=true "Title")
-![plot](20210226_181711.jpg)
+![img1](20210226_181730.jpg)
+![img2](20210226_181721.jpg)
+![img3](20210226_181711.jpg)
 
+## Family hub:
+![img4](20210226_181741.jpg)
 
+## Shopping list:
+![img5](20210226_181820.jpg)
+
+## Talking with assistant :)
+![img6](20210227_073933.jpg)
 
 ## Tips:
 - you can use tablet with broken battery
