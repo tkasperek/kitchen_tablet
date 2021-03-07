@@ -25,6 +25,9 @@ affordable kitchen device that synchronize with residents' smartphones
    https://trello.com/
 - Digital assistant (free):  
    Siri / Google Assistant / Alexa / Cortana
+   
+## Settings:
+- display timeout for 10-20min (for comfortable recipe reading)
 
 ## Mounting:
 
