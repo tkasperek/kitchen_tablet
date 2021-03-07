@@ -15,17 +15,16 @@ affordable kitchen device that synchronize with residents' smartphones
 - photo frame.
 
 ## Hardware:
-- tablet compatible with below software:  
-   Nexus 10 in my case,
-- tablet charger,
-- tablet wall mount:  
+- tablet compatible with below software (under $50),
+- tablet wall mount (under $15):  
    https://www.amazon.com/Universal-Tablet-Holder-Surface-Brainwavz/dp/B07Y84F85V  
    or ![img0](img-tab_mount.png)  
 
 ## Software:
-- Trello app:  
+- Trello app (free):  
    https://trello.com/
-- Digital assistant: Siri / Google Assistant / Alexa / Cortana
+- Digital assistant (free):  
+   Siri / Google Assistant / Alexa / Cortana
 
 ## Mounting:
 
@@ -33,16 +32,14 @@ affordable kitchen device that synchronize with residents' smartphones
 ![img2](20210226_181721.jpg)
 ![img3](20210226_181711.jpg)
 
-## Family hub:
+## Nexus 10 and Trello as family hub:
 ![img4](20210226_181741.jpg)
 
 ## Shopping list:
 ![img5](20210226_181820.jpg)
 
-## Talking with assistant :)
+## Kids talking with assistant :)
 ![img6](20210227_073933.jpg)
 
 ## Tips:
 - you can use tablet with broken battery
-
-
