@@ -19,8 +19,8 @@ affordable kitchen device that synchronize with residents' smartphones
    Nexus 10 in my case,
 - tablet charger,
 - tablet wall mount:  
-   https://www.amazon.com/Universal-Tablet-Holder-Surface-Brainwavz/dp/B07Y84F85V
-   ![img0](img-tab_mount.png)
+   https://www.amazon.com/Universal-Tablet-Holder-Surface-Brainwavz/dp/B07Y84F85V  
+   or ![img0](img-tab_mount.png)  
 
 ## Software:
 - Trello app:  
